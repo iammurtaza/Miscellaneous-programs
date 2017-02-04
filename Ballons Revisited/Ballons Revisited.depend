@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1469271388 source:c:\users\asus\downloads\murtaza\c++\spoj classical user sorted\ballons revisited\main.cpp
+	<stdio.h>
+	<algorithm>
+

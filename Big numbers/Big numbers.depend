@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1469295616 source:c:\users\asus\downloads\murtaza\c++\spoj classical user sorted\big numbers\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
